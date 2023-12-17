@@ -2,7 +2,7 @@
 
 <p align="center">
 Free course promoted by Bro Code to teach HTML <br/>
-<a href="https://www.youtube.com/watch?v=HD13eq_Pmp8&t=3s">Estude esse projeto em formato de vídeo clicando aqui.</a>
+<a href="https://www.youtube.com/watch?v=HD13eq_Pmp8&t=3s">Study this project in video format by clicking here.</a>
 </p>
 
 <p align="center">
