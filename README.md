@@ -7,8 +7,8 @@ Free course promoted by Bro Code to teach HTML <br/>
 
 <p align="center">
   <a href="#-topics">Topics</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-License">License</a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Free course promoted by Bro Code to teach HTML <br/>
 
 ## 🚀 Topics
 
-This project covered the following topics::
+This project covered the following topics:
 
 - Hyperlinks :point_left:
 - Images :camera:
@@ -31,7 +31,7 @@ This project covered the following topics::
 - Lists :clipboard:
 - Tables :bar_chart:
 
-## 💻 Projeto
+## 💻 Project
 
 This HTML course contains a lot of information about this essential language for devs.
 
@@ -39,6 +39,6 @@ This HTML course contains a lot of information about this essential language for
 
 - [Assistir aula](https://www.youtube.com/watch?v=HD13eq_Pmp8&t=3s)
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
