@@ -30,6 +30,7 @@ This project covered the following topics:
 - Video :movie_camera:
 - Lists :clipboard:
 - Tables :bar_chart:
+- ...
 
 ## 💻 Project
 
