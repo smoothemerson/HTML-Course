@@ -18,7 +18,7 @@ Free course promoted by Bro Code to teach HTML <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./github/preview.png" width="85%">
+  <img alt="projeto DevLinks" src="./github/preview.png" width="400px" height="300px" >
 </p>
 
 ## 🚀 Topics
@@ -35,9 +35,9 @@ This project covered the following topics:
 
 This HTML course contains a lot of information about this essential language for devs.
 
-- [Acesse o projeto finalizado, online](https://aoba43.github.io/HTML/)
+- [Access the finished project, online](https://aoba43.github.io/HTML/)
 
-- [Assistir aula](https://www.youtube.com/watch?v=HD13eq_Pmp8&t=3s)
+- [Watch class](https://www.youtube.com/watch?v=HD13eq_Pmp8&t=3s)
 
 ## :memo: License
 
