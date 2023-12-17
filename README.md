@@ -18,7 +18,7 @@ Free course promoted by Bro Code to teach HTML <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./github/preview.png" width="300px" height="700px" >
+  <img alt="HTML COURSE" src="./github/preview.png" width="300px" height="700px" >
 </p>
 
 ## 🚀 Topics
