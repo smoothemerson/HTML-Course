@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="Blog-de-gatos" src="./github/preview.png" width="100%">
+  <img alt="HTML COURSE" src="./github/preview.png" width="300px">
 </p>
 
 ## 🚀 Topics
