@@ -1,14 +1,9 @@
-<h1 align="center"> HTML COURSE </h1>
+<h1 align="center"> HTML COURSE  </h1>
 
 <p align="center">
-Free course promoted by Bro Code to teach HTML <br/>
-<a href="https://www.youtube.com/watch?v=HD13eq_Pmp8&t=3s">Study this project in video format by clicking here.</a>
-</p>
-
-<p align="center">
-  <a href="#-topics">Topics</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-License">License</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -18,7 +13,7 @@ Free course promoted by Bro Code to teach HTML <br/>
 <br>
 
 <p align="center">
-  <img alt="HTML COURSE" src="./github/preview.png" width="300px" height="700px" >
+  <img alt="Blog-de-gatos" src="./github/preview.png" width="100%">
 </p>
 
 ## 🚀 Topics
@@ -36,7 +31,7 @@ This project covered the following topics:
 
 This HTML course contains a lot of information about this essential language for devs.
 
-- [Access the finished project, online](https://aoba43.github.io/HTML/)
+- [Access the finished project, online](https://smoothemerson.github.io/HTML-Course/)
 
 - [Watch class](https://www.youtube.com/watch?v=HD13eq_Pmp8&t=3s)
 
