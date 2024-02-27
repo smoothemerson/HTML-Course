@@ -29,8 +29,6 @@ This project covered the following topics:
 
 ## 💻 Project
 
-This HTML course contains a lot of information about this essential language for devs.
-
 - [Access the finished project, online](https://smoothemerson.github.io/HTML-Course/)
 
 - [Watch class](https://www.youtube.com/watch?v=HD13eq_Pmp8&t=3s)
